@@ -1,7 +1,7 @@
 # sistema-de-entregas-em-python
 # FastDelivery Express - Sistema de Gerenciamento Logístico
 
-O **FastDelivery Express** é um ecossistema desenvolvido em terminal voltado para o monitoramento logístico e gerenciamento operacional de entregas expressas e frotas urbanas comerciais.
+O **FastDelivery Express** é um ecossistema desenvolvido para facilitar a vida das lanchonetes e pizzarias,voltado para auxiliar na logistica de entrega com o cadastro de entregador,cliente e lanchonete,permitindo-o escolher a forma de entrega ,da mais rapida á mais simples,alem de ter o cadastro de cada um dos entregadores presentes para a entrega,auxiliando na logistica e trabalho dos deliverys.
 
 ## 🚀 Tecnologias Utilizadas
 * **Python 3** (Funcionalidades avançadas de Orientação a Objetos)
