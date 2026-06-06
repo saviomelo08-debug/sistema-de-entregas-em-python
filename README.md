@@ -14,6 +14,8 @@ O **FastDelivery Express** é um ecossistema desenvolvido em terminal voltado pa
 
 A organização do código obedece fielmente ao princípio de separação de responsabilidades em camadas arquiteturais profissionais:
 
+
+
 fast_delivery/
 │
 ├── main.py                   # Ponto de inicialização do programa e loop do menu
